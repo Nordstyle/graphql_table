@@ -55,6 +55,7 @@
     "@babel/plugin-proposal-private-methods": "^7.10.4",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@hot-loader/react-dom": "17.0.0-rc.2",
+    "@material-ui/core": "^4.11.0",
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
     "react": "^16.13.1",
